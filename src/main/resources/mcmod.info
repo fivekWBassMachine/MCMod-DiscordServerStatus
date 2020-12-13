@@ -1,0 +1,16 @@
+[
+{
+  "modid": "discordserverstatus",
+  "name": "discordserverstatus",
+  "description": "Hosts a DiscordBot which displays the online status of the minecraft server",
+  "version": "#[[\$]]#{version}",
+  "mcversion": "#[[\$]]#{mcversion}",
+  "url": "https://github.com/fivekWBassMachine/DiscordServerStatus",
+  "updateUrl": "",
+  "authorList": ["5kWBassMachine"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
