@@ -1,20 +1,8 @@
-[02:07:26] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[02:07:39] [Server thread/INFO]: Loading properties
-[02:07:39] [Server thread/INFO]: Default game type: SURVIVAL
-[02:07:39] [Server thread/INFO]: Generating keypair
-[02:07:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:07:39] [Server thread/INFO]: Preparing level "world"
-[02:07:40] [Server thread/INFO]: Preparing start region for level 0
-[02:07:41] [Server thread/INFO]: Preparing spawn area: 50%
-[02:07:41] [Server thread/INFO]: Done (1.533s)! For help, type "help" or "?"
-[02:07:48] [User Authenticator #1/INFO]: UUID of player 5kWBassmachine is 4d6798cf-5875-44ed-81d4-045d45e8d3fe
-[02:07:49] [Server thread/INFO]: 5kWBassmachine[/127.0.0.1:44812] logged in with entity id 350 at (54.00694317122984, 72.0, 223.83644575463933)
-[02:07:49] [Server thread/INFO]: 5kWBassmachine joined the game
-[02:09:13] [Server thread/INFO]: 5kWBassmachine lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:09:13] [Server thread/INFO]: 5kWBassmachine left the game
-[02:09:18] [Server thread/INFO]: Stopping server
-[02:09:18] [Server thread/INFO]: Saving players
-[02:09:18] [Server thread/INFO]: Saving worlds
-[02:09:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[02:09:18] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[02:09:18] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:39:24] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[22:39:30] [Server thread/INFO]: Loading properties
+[22:39:31] [Server thread/INFO]: Default game type: SURVIVAL
+[22:39:31] [Server thread/INFO]: Generating keypair
+[22:39:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:39:31] [Server thread/INFO]: Preparing level "world"
+[22:39:32] [Server thread/INFO]: Preparing start region for level 0
+[22:39:33] [Server thread/INFO]: Done (1.427s)! For help, type "help" or "?"

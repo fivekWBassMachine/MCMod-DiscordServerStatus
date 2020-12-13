@@ -1,3 +1,14 @@
 # Project exclude paths
 /.gradle/
-/eclipse/config/DiscordServerStatus.token
+/eclipse/config
+/eclipse/crash-reports
+/eclipse/logs
+/eclipse/saves
+/eclipse/world
+/eclipse/banned-ips.json
+/eclipse/banned-players.json
+/eclipse/eula.txt
+/eclipse/ops.json
+/eclipse/usercache.json
+/eclipse/usernamecache.json
+/eclipse/whitelist.json
