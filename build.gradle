@@ -42,7 +42,7 @@ dependencies {
     // compile "com.discord4j:discord4j-core:3.1.1"
     compile files("lib/JDA-4.2.0_168.jar")
     // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
-    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
+    compile 'org.slf4j:slf4j-api:1.7.25'
     compile 'com.neovisionaries:nv-websocket-client:2.10'
     compile 'com.squareup.okhttp3:okhttp:4.10.0-RC1'
     compile 'org.apache.commons:commons-collections4:4.4'
@@ -53,8 +53,7 @@ dependencies {
 
 }
 
-processResources
-{
+processResources {
     // this will ensure that this task is redone when the versions change.
     inputs.property "version", project.version
     inputs.property "mcversion", project.minecraft.version
